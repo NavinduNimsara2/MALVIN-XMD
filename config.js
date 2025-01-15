@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || "AlIkFbiZ#QCMqf3K-LFd-BT1T9j-hhAh9hzh0-6dn
 MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
-BOT_NAME: process.env.BOT_NAME || "H.M❤️Nimsara",
+BOT_NAME: process.env.BOT_NAME || "H.M_Nimsara",
 AUTO_VOICE: process.env.AUTO_VOICE || "true", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 AUTO_STICKER: process.env.AUTO_STICKER || "false", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 AUTO_REPLY: process.env.AUTO_REPLY || "false", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
