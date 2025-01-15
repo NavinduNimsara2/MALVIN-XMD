@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 ///=================When editing, do not accidentally delete anything !!MAIN-CONFIG=================================
-SESSION_ID: process.env.SESSION_ID || "otQDxCaJ#YCw6mzUrP6aeHB-TKJ9-DfsUBwJuD8lCYDkrjNWZ68Q",  // 📌 𝗚𝗲𝘁 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗶𝗱 𝗶𝗻 𝗣𝗮𝗶𝗿 𝗦𝗶𝘁𝗲 📌
+SESSION_ID: process.env.SESSION_ID || "AlIkFbiZ#QCMqf3K-LFd-BT1T9j-hhAh9hzh0-6dnD79g8C88VQU",  // 📌 𝗚𝗲𝘁 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗶𝗱 𝗶𝗻 𝗣𝗮𝗶𝗿 𝗦𝗶𝘁𝗲 📌
 MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
